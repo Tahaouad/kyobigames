@@ -6,6 +6,7 @@ import Shop from './composants/Shop';
 import Collections from './composants/Collections';
 import Reviews from './composants/Reviews';
 import Copyright from './composants/Copyright';
+import ContactUs from './composants/ContactUs';
 
 function App() {
   return (
@@ -15,7 +16,9 @@ function App() {
       <Shop />
       <Collections />
       <Reviews />
+      <ContactUs />
       <Copyright />
+
     </div>
   );
 }
