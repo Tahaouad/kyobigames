@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/kyobigames/static/css/main.4cb7c603.css",
-    "main.js": "/kyobigames/static/js/main.7e7ad9e3.js",
+    "main.js": "/kyobigames/static/js/main.2a9a6d2d.js",
     "static/js/787.c365962d.chunk.js": "/kyobigames/static/js/787.c365962d.chunk.js",
+    "static/media/contactUs.jpg": "/kyobigames/static/media/contactUs.55b5dc47d0218ae06bb7.jpg",
     "static/media/col2.PNG": "/kyobigames/static/media/col2.89367df0539dfe54d4ea.PNG",
     "static/media/col3.PNG": "/kyobigames/static/media/col3.00003e1f7eac2b9d9193.PNG",
     "static/media/col1.PNG": "/kyobigames/static/media/col1.c8fff62ff0d7f72a7c96.PNG",
@@ -12,11 +13,11 @@
     "static/media/logo.svg": "/kyobigames/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kyobigames/index.html",
     "main.4cb7c603.css.map": "/kyobigames/static/css/main.4cb7c603.css.map",
-    "main.7e7ad9e3.js.map": "/kyobigames/static/js/main.7e7ad9e3.js.map",
+    "main.2a9a6d2d.js.map": "/kyobigames/static/js/main.2a9a6d2d.js.map",
     "787.c365962d.chunk.js.map": "/kyobigames/static/js/787.c365962d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb7c603.css",
-    "static/js/main.7e7ad9e3.js"
+    "static/js/main.2a9a6d2d.js"
   ]
 }
