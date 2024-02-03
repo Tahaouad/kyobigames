@@ -26,7 +26,7 @@ const ContactUs = () => {
               <ul style={{ listStyleType: 'none', padding: 0, display: 'flex', justifyContent: 'center' }}>
                 <li style={{ margin: '0 10px' }}><a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><FaFacebook style={{ color: iconColor }} /></a></li>
                 <li style={{ margin: '0 10px' }}><a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><FaTwitter style={{ color: iconColor }} /></a></li>
-                <li style={{ margin: '0 10px' }}><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><FaLinkedin style={{ color: iconColor }} /></a></li>
+                <li style={{ margin: '0 10px' }}><a href="https://www.linkedin.com/in/taha-ouad" target="_blank" rel="noopener noreferrer"><FaLinkedin style={{ color: iconColor }} /></a></li>
               </ul>
             </div>
           </div>

@@ -1,0 +1,15 @@
+
+  @media screen and (max-width: 768px) {
+    
+    .Title{
+        width: 380px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .Title {
+        width: 50%;
+    }
+  }
+  
+
+  

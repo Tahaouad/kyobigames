@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-
+import './Home.css'
 const Home = () => {
     return (
         <div id="home" className="d-flex align-items-center justify-content-center" style={{ minHeight: '100vh', backgroundImage: `url(${require('../images/home.jpg')})` }}>
             <div className='container'>
                 <div>
-                    <h1 className='w-50' style={{ fontFamily: 'Silkscreen', fontSize: '60px', color: 'white' }}>
+                    <h1 className='Title' style={{ fontFamily: 'Silkscreen', fontSize: '50px', color: 'white' }}>
                         Your one-stop video game center
                     </h1>
                     <Link to="shop" smooth={true} duration={500}>
