@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kyobigames/static/css/main.4cb7c603.css",
-    "main.js": "/kyobigames/static/js/main.2a9a6d2d.js",
+    "main.css": "/kyobigames/static/css/main.0225b9a9.css",
+    "main.js": "/kyobigames/static/js/main.2b82fc80.js",
     "static/js/787.c365962d.chunk.js": "/kyobigames/static/js/787.c365962d.chunk.js",
     "static/media/contactUs.jpg": "/kyobigames/static/media/contactUs.55b5dc47d0218ae06bb7.jpg",
     "static/media/col2.PNG": "/kyobigames/static/media/col2.89367df0539dfe54d4ea.PNG",
@@ -10,14 +10,18 @@
     "static/media/home.jpg": "/kyobigames/static/media/home.94068bce6236dc963eba.jpg",
     "static/media/4416244.jpg": "/kyobigames/static/media/4416244.e9957f945f5714672285.jpg",
     "static/media/nav.jpg": "/kyobigames/static/media/nav.614a044fdb8febb023e9.jpg",
+    "static/media/KHALIL.PNG": "/kyobigames/static/media/KHALIL.a9b6cecbc9662e65e5a6.PNG",
+    "static/media/KHALIL2.PNG": "/kyobigames/static/media/KHALIL2.b0d0ee1a7df4cf8e5d41.PNG",
+    "static/media/KHALIL4.PNG": "/kyobigames/static/media/KHALIL4.7b5da6c8c2f104c68baf.PNG",
+    "static/media/KHALIL3.PNG": "/kyobigames/static/media/KHALIL3.c9e7e62530771b67a859.PNG",
     "static/media/logo.svg": "/kyobigames/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kyobigames/index.html",
-    "main.4cb7c603.css.map": "/kyobigames/static/css/main.4cb7c603.css.map",
-    "main.2a9a6d2d.js.map": "/kyobigames/static/js/main.2a9a6d2d.js.map",
+    "main.0225b9a9.css.map": "/kyobigames/static/css/main.0225b9a9.css.map",
+    "main.2b82fc80.js.map": "/kyobigames/static/js/main.2b82fc80.js.map",
     "787.c365962d.chunk.js.map": "/kyobigames/static/js/787.c365962d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cb7c603.css",
-    "static/js/main.2a9a6d2d.js"
+    "static/css/main.0225b9a9.css",
+    "static/js/main.2b82fc80.js"
   ]
 }
