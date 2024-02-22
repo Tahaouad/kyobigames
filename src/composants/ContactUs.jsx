@@ -19,14 +19,14 @@ const ContactUs = () => {
 
             <div style={{ marginTop: '20px', textAlign: 'center', margin: 'auto' }}>
               <p style={{ fontSize: '1.2rem' }}>Contact Information:</p>
-              <p><FaPhone style={{ color: iconColor }} /> +212-687782240</p>
-              <p><FaEnvelope style={{ color: iconColor }} /> tahaouad04@gmail.com</p>
-              <p><FaMapMarkerAlt style={{ color: iconColor }} /> Morocco, Casablanca</p>
+              <p style={{ fontSize: '1.2rem' }}><FaPhone style={{ color: iconColor }} /> +212-687782240</p>
+              <p style={{ fontSize: '1.2rem' }}><FaEnvelope style={{ color: iconColor }} /> tahaouad@gmail.com</p>
+              <p style={{ fontSize: '1.2rem' }}><FaMapMarkerAlt style={{ color: iconColor }} /> Morocco, Casablanca</p>
               <p style={{ marginTop: '20px' }}>Connect with us:</p>
               <ul style={{ listStyleType: 'none', padding: 0, display: 'flex', justifyContent: 'center' }}>
-                <li style={{ margin: '0 10px' }}><a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><FaFacebook style={{ color: iconColor }} /></a></li>
-                <li style={{ margin: '0 10px' }}><a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><FaTwitter style={{ color: iconColor }} /></a></li>
-                <li style={{ margin: '0 10px' }}><a href="https://www.linkedin.com/in/taha-ouad" target="_blank" rel="noopener noreferrer"><FaLinkedin style={{ color: iconColor }} /></a></li>
+                <li style={{ margin: '0 20px' }}><a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><FaFacebook style={{ color: iconColor }} /></a></li>
+                <li style={{ margin: '0 20px' }}><a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><FaTwitter style={{ color: iconColor }} /></a></li>
+                <li style={{ margin: '0 20px' }}><a href="https://www.linkedin.com/in/taha-ouad" target="_blank" rel="noopener noreferrer"><FaLinkedin style={{ color: iconColor }} /></a></li>
               </ul>
             </div>
           </div>
